@@ -73,8 +73,4 @@ Criar uma interface grafica em Angular 4 ou posterior consumindo os end-points p
 
 Obs.: A folha de stylo fica a gosto do desenvolvedor podendo usar bibliotecas de terceiros.
 
-Qualquer duvida pode entrar em contato por email [luanyata@gmail.com](mailto:luanyata@gmail.com)
 
-## License
-
-MIT
